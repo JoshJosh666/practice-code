@@ -1,0 +1,45 @@
+.req{
+  font-size: 30px;
+  font-family: arial;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-bottom: 20px;
+}
+
+input{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  background-color: rgba(128, 128, 128, 0.123);
+  border: none;
+  width: 300px;
+  padding-left: 15px;
+
+
+}
+.loc{
+  
+  display: block;
+}
+.des{
+  display: block;
+}
+button{
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 15px;
+  
+}
+.request{
+  background-color: black;
+  color: white;
+  border: none;
+}
+.sched{
+  border:none;
+  
+}

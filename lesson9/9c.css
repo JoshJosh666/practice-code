@@ -1,0 +1,9 @@
+div{
+  border-style: solid;
+  border-color: gray;
+  display: inline-block;
+  border-width: 1px;
+  padding-right: 180px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}

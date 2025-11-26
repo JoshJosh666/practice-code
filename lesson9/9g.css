@@ -1,0 +1,140 @@
+
+p{
+  font-family: arial;
+}
+
+.div1{
+  margin-left: 10px;
+  display: inline-block;
+  box-shadow: 0px 0px 5px 0px #0000003b; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-right: 5px;
+  
+  
+}
+
+.pic{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  
+}
+.o{
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.two{
+  margin-top: 5px;
+  color:gray;
+  font-size: 13px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.add{
+  margin-top: 12px;
+  background-color: rgb(99, 99, 253);
+  border-radius: 3px;
+  border: none;
+  color: white;
+  padding-right: 18px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  
+}
+
+
+
+.div2{
+  margin-left: 10px;
+  display: inline-block;
+  box-shadow: 0px 0px 5px 0px #0000003b; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-right: 5px;
+  vertical-align: top;
+  
+  
+}
+
+.pic2{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  
+}
+.o2{
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.two2{
+  margin-top: 5px;
+  color:gray;
+  font-size: 13px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.add2{
+  margin-top: 12px;
+  background-color: rgb(99, 99, 253);
+  border-radius: 3px;
+  border: none;
+  color: white;
+  padding-right: 18px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+}
+  .div3{
+  margin-left: 10px;
+  display: inline-block;
+  box-shadow: 0px 0px 5px 0px #0000003b; 
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-right: 5px;
+  vertical-align: top;
+  
+  
+}
+
+.pic3{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  
+}
+.o3{
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.two3{
+  margin-top: 5px;
+  color:gray;
+  font-size: 13px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.add3{
+  margin-top: 12px;
+  background-color: rgb(99, 99, 253);
+  border-radius: 3px;
+  border: none;
+  color: white;
+  padding-right: 18px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  
+}
+
+}

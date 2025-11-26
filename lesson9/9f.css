@@ -1,0 +1,42 @@
+p{
+  font-family: arial;
+}
+
+div{
+  margin-left: 10px;
+  display: inline-block;
+  box-shadow: 0px 0px 5px 0px #0000003b; 
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+.pic{
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+.o{
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.two{
+  margin-top: 5px;
+  color:gray;
+  font-size: 13px;
+  margin-bottom: 0px;
+}
+.add{
+  margin-top: 12px;
+  background-color: rgb(99, 99, 253);
+  border-radius: 3px;
+  border: none;
+  color: white;
+  padding-right: 18px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
